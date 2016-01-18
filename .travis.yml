@@ -2,7 +2,7 @@ language: cpp
 compiler:
     - gcc
 os:
-    - linux
+    - ubuntu
 dist:
     - trusty
 branches:
