@@ -1,0 +1,13 @@
+language: cpp
+compiler:
+    - gcc
+os:
+    - linux
+dist:
+    - trusty
+notifications:
+    email:
+        - havyhidalgo@gmail.com
+
+
+
