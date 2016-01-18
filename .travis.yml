@@ -4,8 +4,8 @@ compiler:
     - clang
 os:
     - linux
-    dist:
-        - trusty
+dist:
+    - trusty
 env:
     global:
         - GCC_VERSION="4.8"
